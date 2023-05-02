@@ -3,12 +3,12 @@
 Sample application presenting fetching data from "https://jsonplaceholder.typicode.com".
 
 Uses:
--Paging 3 library
--Retrofit
--Room
--Coil
+- Paging 3 library
+- Retrofit
+- Room
+- Coil
 
-##App preview:
+## App preview:
 
 ![gif1](https://user-images.githubusercontent.com/97065748/235719960-ba2ee718-44f8-479d-8699-aac3952833b4.gif)
 
