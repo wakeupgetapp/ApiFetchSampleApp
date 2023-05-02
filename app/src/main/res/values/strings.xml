@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ApiFetchSampleApp</string>
+    <string name="album">Album</string>
+    <string name="unable_to_fetch_data">Unable to fetch data. Check your internet connection and retry.</string>
+    <string name="try_again">Try again</string>
+    <string name="title">Title</string>
+    <string name="id">Id</string>
+    <string name="error_occurred">An error has occurred. Do you want to fetch data again?</string>
+    <string name="retry">Retry</string>
+</resources>
