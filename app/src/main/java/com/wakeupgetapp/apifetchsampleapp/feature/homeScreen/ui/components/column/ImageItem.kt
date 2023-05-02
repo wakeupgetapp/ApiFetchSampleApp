@@ -1,4 +1,4 @@
-package com.wakeupgetapp.apifetchsampleapp.feature.homeScreen.ui.components
+package com.wakeupgetapp.apifetchsampleapp.feature.homeScreen.ui.components.column
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.clickable

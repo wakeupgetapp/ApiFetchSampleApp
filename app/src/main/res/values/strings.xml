@@ -5,6 +5,7 @@
     <string name="try_again">Try again</string>
     <string name="title">Title</string>
     <string name="id">Id</string>
-    <string name="error_occurred">An error has occurred. Do you want to fetch data again?</string>
+    <string name="error_occurred_try_again">An error has occurred. Do you want to fetch data again?</string>
     <string name="retry">Retry</string>
+    <string name="cannot_load_image">Image cannot be loaded. Check your internet connection.</string>
 </resources>

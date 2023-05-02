@@ -14,7 +14,6 @@ import androidx.paging.LoadState
 import androidx.paging.compose.LazyPagingItems
 import androidx.paging.compose.itemsIndexed
 import com.wakeupgetapp.apifetchsampleapp.data.model.ImageModel
-import com.wakeupgetapp.apifetchsampleapp.feature.homeScreen.ui.components.ImageItem
 
 @Composable
 fun ImageColumn(

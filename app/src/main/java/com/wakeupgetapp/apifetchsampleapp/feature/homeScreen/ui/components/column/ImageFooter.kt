@@ -40,7 +40,7 @@ fun ImageFooter(appendState: LoadState, retryLoad: () -> Unit) {
                         RoundedCornerShape(size = 16.dp)
                     ), horizontalAlignment = Alignment.CenterHorizontally
             ) {
-                ImageFooterText(text = stringResource(id = R.string.error_occurred))
+                ImageFooterText(text = stringResource(id = R.string.error_occurred_try_again))
                 Button(onClick = { retryLoad() }) {
                     Text(text = stringResource(id = R.string.retry))
                 }
